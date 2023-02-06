@@ -1,4 +1,3 @@
-//used VS, couldnt use Xcode
 //import 
 import UIKit
 
